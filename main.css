@@ -13,11 +13,12 @@ text-align: center;
   display: inline;
   padding: 14px 16px;
   
-  .bodybox {
+.bodybox {
   border-style: solid;
   border-color: black;
     width: 50%;
     margin: 5px 20px 5px 20px
   flat: left;
   }
+  
 }
